@@ -70,9 +70,10 @@ body {
       position:absolute;
       background: #000;
       opacity: 50%;
-      display: block;
+      display: none;
   }
   .pop-up{
+      display: none;
       width: 200px;
       position:absolute;
       background: white;
